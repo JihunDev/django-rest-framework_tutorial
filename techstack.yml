@@ -1,0 +1,68 @@
+repo_name: JihunDev/django-rest-framework_tutorial
+report_id: 12b7cc3481bc6f04fb0ce3784ec4d8c3
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T08:21:03+00:00'
+requested_by: JihunDev
+provider: github
+branch: main
+detected_tools_count: 5
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/JihunDev/django-rest-framework_tutorial/blob/main/env/lib/python3.10/site-packages/django/contrib/admin/static/admin/js/core.js
+  detection_source: env/lib/python3.10/site-packages/django/contrib/admin/static/admin/js/core.js
+  last_updated_by: Jihun Kim
+  last_updated_on: 2022-01-30 09:23:27.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/JihunDev/django-rest-framework_tutorial
+  detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/JihunDev/django-rest-framework_tutorial/blob/main/env/lib/python3.10/site-packages/Django-3.2.9.dist-info/entry_points.txt
+  detection_source: env/lib/python3.10/site-packages/Django-3.2.9.dist-info/entry_points.txt
+  last_updated_by: Jihun Kim
+  last_updated_on: 2022-01-30 09:23:27.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/JihunDev/django-rest-framework_tutorial
+  detection_source: Repo Metadata
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/JihunDev/django-rest-framework_tutorial/blob/main/env/lib/python3.10/site-packages/Django-3.2.9.dist-info/entry_points.txt
+  detection_source: env/lib/python3.10/site-packages/Django-3.2.9.dist-info/entry_points.txt
+  last_updated_by: Jihun Kim
+  last_updated_on: 2022-01-30 09:23:27.000000000 Z
